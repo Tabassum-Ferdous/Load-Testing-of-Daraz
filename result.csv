@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1742151085668,1599,HTTP Request,200,OK,Thread Group 1-2,text,true,,39120,226,5,5,https://daraz.com/,256,0,118
+1742151085668,256,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,255,115,5,5,https://www.daraz.com/,256,0,118
+1742151085924,1343,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,38865,111,5,5,https://daraz.com/,1341,0,546
+1742151085319,1949,HTTP Request,200,OK,Thread Group 1-1,text,true,,39120,226,5,5,https://daraz.com/,591,0,436
+1742151085319,595,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,255,115,5,5,https://www.daraz.com/,591,0,436
+1742151085915,1353,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,38865,111,5,5,https://daraz.com/,1352,0,556
+1742151086167,1172,HTTP Request,200,OK,Thread Group 1-3,text,true,,39120,226,3,3,https://daraz.com/,219,0,112
+1742151086167,219,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,255,115,3,3,https://www.daraz.com/,219,0,112
+1742151086387,952,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,38865,111,3,3,https://daraz.com/,910,0,112
+1742151086667,1203,HTTP Request,200,OK,Thread Group 1-4,text,true,,39123,226,3,3,https://daraz.com/,624,0,111
+1742151086667,624,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,255,115,3,3,https://www.daraz.com/,624,0,111
+1742151087292,578,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,38868,111,3,3,https://daraz.com/,578,0,108
+1742151087167,919,HTTP Request,200,OK,Thread Group 1-5,text,true,,39122,226,2,2,https://daraz.com/,215,0,109
+1742151087167,215,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,255,115,2,2,https://www.daraz.com/,215,0,109
+1742151087383,703,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,38867,111,2,2,https://daraz.com/,654,0,114
+1742151087667,759,HTTP Request,200,OK,Thread Group 1-6,text,true,,39120,226,2,2,https://daraz.com/,279,0,114
+1742151087667,279,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,255,115,2,2,https://www.daraz.com/,279,0,114
+1742151087947,479,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,38865,111,2,2,https://daraz.com/,477,0,121
+1742151088166,698,HTTP Request,200,OK,Thread Group 1-7,text,true,,39119,226,2,2,https://daraz.com/,245,0,113
+1742151088166,245,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,255,115,2,2,https://www.daraz.com/,245,0,113
+1742151088412,452,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,38864,111,2,2,https://daraz.com/,452,0,116
+1742151088665,664,HTTP Request,200,OK,Thread Group 1-8,text,true,,39120,226,2,2,https://daraz.com/,216,0,110
+1742151088665,216,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,255,115,2,2,https://www.daraz.com/,216,0,110
+1742151088881,448,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,38865,111,2,2,https://daraz.com/,447,0,109
+1742151089164,712,HTTP Request,200,OK,Thread Group 1-9,text,true,,39119,226,2,2,https://daraz.com/,216,0,109
+1742151089164,216,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,255,115,2,2,https://www.daraz.com/,216,0,109
+1742151089380,496,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,38864,111,2,2,https://daraz.com/,444,0,109
+1742151089664,654,HTTP Request,200,OK,Thread Group 1-10,text,true,,39120,226,2,2,https://daraz.com/,215,0,108
+1742151089664,215,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,255,115,2,2,https://www.daraz.com/,215,0,108
+1742151089879,439,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,38865,111,2,2,https://daraz.com/,437,0,109
+1742151090165,662,HTTP Request,200,OK,Thread Group 1-11,text,true,,39123,226,2,2,https://daraz.com/,219,0,113
+1742151090165,219,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,255,115,2,2,https://www.daraz.com/,219,0,113
+1742151090384,443,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,38868,111,2,2,https://daraz.com/,443,0,107
+1742151090666,677,HTTP Request,200,OK,Thread Group 1-12,text,true,,39122,226,2,2,https://daraz.com/,215,0,109
+1742151090666,215,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,255,115,2,2,https://www.daraz.com/,215,0,109
+1742151090881,462,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,38867,111,2,2,https://daraz.com/,461,0,110
+1742151091165,680,HTTP Request,200,OK,Thread Group 1-13,text,true,,39120,226,2,2,https://daraz.com/,233,0,115
+1742151091165,233,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,255,115,2,2,https://www.daraz.com/,233,0,115
+1742151091399,446,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,38865,111,2,2,https://daraz.com/,445,0,108
+1742151091664,709,HTTP Request,200,OK,Thread Group 1-14,text,true,,39121,226,2,2,https://daraz.com/,221,0,115
+1742151091664,221,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,255,115,2,2,https://www.daraz.com/,221,0,115
+1742151091885,488,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,38866,111,2,2,https://daraz.com/,487,0,110
+1742151092166,689,HTTP Request,200,OK,Thread Group 1-15,text,true,,39118,226,2,2,https://daraz.com/,232,0,115
+1742151092166,232,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,255,115,2,2,https://www.daraz.com/,232,0,115
+1742151092399,456,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,38863,111,2,2,https://daraz.com/,455,0,112
+1742151092665,718,HTTP Request,200,OK,Thread Group 1-16,text,true,,39119,226,2,2,https://daraz.com/,220,0,114
+1742151092665,220,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,255,115,2,2,https://www.daraz.com/,220,0,114
+1742151092886,497,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,38864,111,2,2,https://daraz.com/,452,0,115
+1742151093166,729,HTTP Request,200,OK,Thread Group 1-17,text,true,,39120,226,2,2,https://daraz.com/,219,0,110
+1742151093166,219,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,255,115,2,2,https://www.daraz.com/,219,0,110
+1742151093386,509,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,38865,111,2,2,https://daraz.com/,468,0,109
+1742151093667,685,HTTP Request,200,OK,Thread Group 1-18,text,true,,39122,226,2,2,https://daraz.com/,220,0,114
+1742151093667,220,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,255,115,2,2,https://www.daraz.com/,220,0,114
+1742151093889,463,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,38867,111,2,2,https://daraz.com/,461,0,114
+1742151094165,699,HTTP Request,200,OK,Thread Group 1-19,text,true,,39123,226,2,2,https://daraz.com/,226,0,114
+1742151094165,226,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,255,115,2,2,https://www.daraz.com/,226,0,114
+1742151094392,472,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,38868,111,2,2,https://daraz.com/,469,0,118
+1742151094665,728,HTTP Request,200,OK,Thread Group 1-20,text,true,,39122,226,1,1,https://daraz.com/,224,0,115
+1742151094665,224,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,255,115,1,1,https://www.daraz.com/,224,0,115
+1742151094890,503,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,38867,111,1,1,https://daraz.com/,451,0,112
